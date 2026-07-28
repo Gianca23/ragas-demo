@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Come richiedere un rimborso?",
+    "ground_truth": "Le richieste di rimborso devono essere inviate entro 30 giorni."
+  },
+  {
+    "question": "Il servizio Premium include un consulente personale?",
+    "ground_truth": "Il servizio Premium include assistenza clienti 24 ore su 24, ma non menziona un consulente personale."
+  },
+  {
+    "question": "Come posso contattare l'assistenza?",
+    "ground_truth": "Per richiedere assistenza è necessario contattare il supporto clienti."
+  }
+]
