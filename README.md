@@ -102,7 +102,7 @@ ollama pull nomic-embed-text
 ## 🚀 Installazione
 
 ``` bash
-git clone https://github.com/tuo-username/ragas-demo.git
+git clone https://github.com/Gianca23/ragas-demo.git
 cd ragas-demo
 ```
 
